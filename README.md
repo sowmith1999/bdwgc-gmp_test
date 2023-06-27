@@ -12,3 +12,4 @@
   
 ## BDWGC
 - same as gmp, except get the file [here](https://www.hboehm.info/gc/#where)
+- pass --enable-cplusplus to the configure script
